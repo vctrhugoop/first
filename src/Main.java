@@ -6,7 +6,7 @@ public class Main {
         int numberTwo;
 
         numberTwo = 1;
-        numberOne = 2;
+        numberOne = 3;
 
         System.out.print(numberTwo + numberOne);
     }
